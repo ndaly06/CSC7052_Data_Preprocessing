@@ -1,0 +1,23 @@
+Age Group Type,Age Group Count,Special Assist Count,SpecialAssistDescription
+Adult (16+),23,23,I am blind or significantly sight impaired.
+Adult (16+),65,65,I am a wheelchair user or I require wheelchair assistance at the airport or I am unable to walk long distances
+Adult (16+),13,13,I am travelling with a registered guide / assistance dog
+Adult (16+),341,341,I am deaf or significantly hearing impaired
+Adult (16+),687,687,I have an intellectual or developmental disability and I require assistance within the airport
+Adult (16+),346,346,I have a nut allergy
+Children (2-15),87,87,I am blind or significantly sight impaired.
+Children (2-15),142,142,I am a wheelchair user or I require wheelchair assistance at the airport or I am unable to walk long distances
+Children (2-15),37,37,I am travelling with a registered guide / assistance dog
+Children (2-15),237,237,I am deaf or significantly hearing impaired
+Children (2-15),122,122,I have an intellectual or developmental disability and I require assistance within the airport
+Children (2-15),165,165,I have a nut allergy
+Infants (<2),23,23,I am blind or significantly sight impaired.
+Infants (<2),0,0,I am a wheelchair user or I require wheelchair assistance at the airport or I am unable to walk long distances
+Infants (<2),0,0,I am travelling with a registered guide / assistance dog
+Infants (<2),55,55,I am deaf or significantly hearing impaired
+Infants (<2),21,21,I have an intellectual or developmental disability and I require assistance within the airport
+Infants (<2),78,78,I have a nut allergy
+,,,
+,,,
+,,,
+,,,
